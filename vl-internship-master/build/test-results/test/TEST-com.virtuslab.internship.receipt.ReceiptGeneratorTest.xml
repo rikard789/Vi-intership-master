@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.virtuslab.internship.receipt.ReceiptGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-15T17:31:12" hostname="DESKTOP-0D8PK8C" time="0.048">
+  <properties/>
+  <testcase name="testReceiptGeneration()" classname="com.virtuslab.internship.receipt.ReceiptGeneratorTest" time="0.048"/>
+  <system-out><![CDATA[["Product[name=Milk, type=DAIRY, price=2.7]","Product[name=Milk, type=DAIRY, price=2.7]","Product[name=Bread, type=GRAINS, price=5]","Product[name=Apple, type=FRUITS, price=2]"]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
